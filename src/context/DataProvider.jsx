@@ -23,4 +23,4 @@ const DataProvider = ({ children }) => {
   );
 };
 
-export default DataProvider;
+export default DataProvider
