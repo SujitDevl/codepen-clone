@@ -4,10 +4,10 @@
     color: #fff;
   }
   
-  .CodeMirror-gutters {
+.CodeMirror-gutters {
     background: #1d1e22 !important;
   }
   
-  .CodeMirror-scroll {
+.CodeMirror-scroll {
     background: #1d1e22;
   }
