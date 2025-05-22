@@ -1,6 +1,6 @@
 # 🖋️ CodePen Clone (Frontend Only)
 
-A Frontend-only CodePen clone built with React, Material UI, and CodeMirror. This project allows users to write and preview HTML, CSS, and JavaScript code in real-time directly in the browser, just like the original [CodePen](https://codepen.io), but simpler and focused on the client side only.
+A Frontend-only CodePen clone built with React, Material UI, and CodeMirror. This project allows users to write and preview HTML, CSS, and JavaScript code in real-time directly in the browser, just like the original [CodePen](https://codepen.io), but simpler and focused on the client side only
 
 ## ✨ Features
 
