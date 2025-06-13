@@ -16,7 +16,7 @@ A Frontend-only CodePen clone built with React, Material UI, and CodeMirror. Thi
 - **React** – UI library
 - **Material UI** – Component library for styling
 - **CodeMirror** – Code editor with syntax highlighting
-- **Vanilla JS + HTML/CSS** for rendering in an `iframe`
+- **Vanilla JS + HTML/CSS**
 
 
 
